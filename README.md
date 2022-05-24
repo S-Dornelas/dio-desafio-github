@@ -4,4 +4,4 @@ Decola Tech 3a edição
 
 **Repositório para Desafio de Projeto.
 
-Foco, Força e Fé que irei conseguir realizar todos os meus objetivos.
+-Foco, Força e Fé que irei conseguir realizar todos os meus objetivos.-
